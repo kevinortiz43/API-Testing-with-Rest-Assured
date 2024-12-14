@@ -1,0 +1,203 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "java",
+      "author": "java-author"
+    },
+    {
+      "id": "3",
+      "title": "selenium",
+      "author": "selenium-author"
+    },
+    {
+      "id": "4",
+      "title": "sql",
+      "author": "sql-author"
+    },
+    {
+      "id": "5",
+      "title": "your title",
+      "author": "your author"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "test comment",
+      "postId": 1
+    },
+    {
+      "id": "3",
+      "body": "Hello World",
+      "postId": 3
+    },
+    {
+      "id": "4",
+      "body": "Greetings from Canada",
+      "postId": 4
+    }
+  ],
+  "profiles": [
+    {
+      "name": "typicode",
+      "id": "61e6"
+    },
+    {
+      "name": "java-author",
+      "id": "a7ea"
+    },
+    {
+      "name": "sql-author",
+      "id": "f862"
+    },
+    {
+      "name": "selenium-author",
+      "id": "734a"
+    }
+  ],
+  "persons": [
+    {
+      "index": 0,
+      "balance": 3436.84,
+      "age": 35,
+      "name": "Bell Rosa",
+      "company": "SQUISH",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Ellison Diaz"
+        },
+        {
+          "id": 1,
+          "name": "Naomi Freeman"
+        },
+        {
+          "id": 2,
+          "name": "Kristina Wagner"
+        }
+      ],
+      "id": "29a0"
+    },
+    {
+      "index": 1,
+      "balance": 2005.88,
+      "age": 33,
+      "name": "Harrell Cash",
+      "company": "MACRONAUT",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Beatriz Wolfe"
+        },
+        {
+          "id": 1,
+          "name": "Rosemary Booth"
+        },
+        {
+          "id": 2,
+          "name": "Myrtle Lara"
+        }
+      ],
+      "id": "5fae"
+    },
+    {
+      "index": 2,
+      "balance": 2930.9,
+      "age": 34,
+      "name": "Shirley Jackson",
+      "company": "BRISTO",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Vera Campbell"
+        },
+        {
+          "id": 1,
+          "name": "Reynolds Best"
+        },
+        {
+          "id": 2,
+          "name": "Kayla Morrison"
+        }
+      ],
+      "id": "e35b"
+    },
+    {
+      "index": 3,
+      "balance": 3171.24,
+      "age": 30,
+      "name": "Kasey Garrison",
+      "company": "WARETEL",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Alisa Barrera"
+        },
+        {
+          "id": 1,
+          "name": "Sullivan Jordan"
+        },
+        {
+          "id": 2,
+          "name": "Vincent Hoover"
+        }
+      ],
+      "id": "d9d2"
+    },
+    {
+      "index": 4,
+      "balance": 1390.18,
+      "age": 32,
+      "name": "Pam Sutton",
+      "company": "ANDERSHUN",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Carmella Newton"
+        },
+        {
+          "id": 1,
+          "name": "Sellers Armstrong"
+        },
+        {
+          "id": 2,
+          "name": "Erna Case"
+        }
+      ],
+      "id": "90f6"
+    },
+    {
+      "index": 5,
+      "balance": 2909.12,
+      "age": 20,
+      "name": "Banks Black",
+      "company": "MOTOVATE",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Diane Hodge"
+        },
+        {
+          "id": 1,
+          "name": "Duffy Mullen"
+        },
+        {
+          "id": 2,
+          "name": "Susanna Rose"
+        }
+      ],
+      "id": "bcef"
+    }
+  ]
+}
